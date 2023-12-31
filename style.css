@@ -62,3 +62,37 @@ canvas:active {
     font-weight: 600;
     font-size: 3.5em;
 }
+
+.bi {
+    text-shadow: 2px 1px 1px #0000006c;
+    font-size: 1.2rem;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+
+  
+  }
+
+  .msg {
+    cursor: pointer;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    z-index: 3;
+    background: rgba(0, 0, 0, 0);
+
+}
+  
+  .msg ul {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .msg ul li {
+    padding-inline: 5px;
+    list-style: none;
+  }
+  
+  .msg ul li a {
+    text-decoration: none;
+  }
+  

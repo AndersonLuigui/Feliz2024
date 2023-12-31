@@ -1,3 +1,7 @@
+
+
+
+
 (function($) {
     let fwTextOverlay = {};
     fwTextOverlay.opacityIn = [0,1];
